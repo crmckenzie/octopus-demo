@@ -1,0 +1,10 @@
+C:\Users\chris\src\octopus-demo\octopus-demo\bin\Debug\netcoreapp2.0\octopus-demo.deps.json
+C:\Users\chris\src\octopus-demo\octopus-demo\bin\Debug\netcoreapp2.0\octopus-demo.runtimeconfig.json
+C:\Users\chris\src\octopus-demo\octopus-demo\bin\Debug\netcoreapp2.0\octopus-demo.runtimeconfig.dev.json
+C:\Users\chris\src\octopus-demo\octopus-demo\bin\Debug\netcoreapp2.0\octopus-demo.dll
+C:\Users\chris\src\octopus-demo\octopus-demo\bin\Debug\netcoreapp2.0\octopus-demo.pdb
+C:\Users\chris\src\octopus-demo\octopus-demo\obj\Debug\netcoreapp2.0\octopus-demo.csproj.CoreCompileInputs.cache
+C:\Users\chris\src\octopus-demo\octopus-demo\obj\Debug\netcoreapp2.0\octopus-demo.AssemblyInfoInputs.cache
+C:\Users\chris\src\octopus-demo\octopus-demo\obj\Debug\netcoreapp2.0\octopus-demo.AssemblyInfo.cs
+C:\Users\chris\src\octopus-demo\octopus-demo\obj\Debug\netcoreapp2.0\octopus-demo.dll
+C:\Users\chris\src\octopus-demo\octopus-demo\obj\Debug\netcoreapp2.0\octopus-demo.pdb
